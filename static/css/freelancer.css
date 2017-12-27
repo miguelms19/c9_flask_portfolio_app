@@ -83,6 +83,7 @@ header .intro-text .name {
   display: block;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
+  background: #0000D9
   font-weight: 700;
   font-size: 2em;
 }
